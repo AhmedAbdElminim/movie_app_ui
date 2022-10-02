@@ -4,7 +4,7 @@
   <tr>
     <td>OnBoarding Screen</td>
      <td>Home Screen</td>
-     <td>Details Movie Screen</td>
+     <td>Movie Details Screen</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/59921382/190693418-c99c0031-5992-4dc3-9080-365b3a8c6136.jpg" width=350 height=600></td>
